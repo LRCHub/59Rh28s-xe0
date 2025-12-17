@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "推し変なんて許さない！ (Cover)",
+  "base_artist": "Hanon×Kotoha",
+  "createdAt": "2025-12-17T05:35:54.900312Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "推し変なんて許さない！",
+      "artist": "可憐なアイボリー",
+      "has_synced": true,
+      "path": "select/01_推し変なんて許さない!_可憐なアイボリー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "推し変なんて許さない! (Cover)",
+      "artist": "Hanon×Kotoha",
+      "has_synced": false,
+      "path": "select/pl_01_推し変なんて許さない!_(Cover)_Hanon×Kotoha.txt"
+    }
+  ]
+}
